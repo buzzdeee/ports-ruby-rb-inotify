@@ -9,6 +9,7 @@ ${GEM_LIB}/gems/${DISTNAME}/VERSION
 ${GEM_LIB}/gems/${DISTNAME}/lib/
 ${GEM_LIB}/gems/${DISTNAME}/lib/rb-inotify/
 ${GEM_LIB}/gems/${DISTNAME}/lib/rb-inotify.rb
+${GEM_LIB}/gems/${DISTNAME}/lib/rb-inotify/errors.rb
 ${GEM_LIB}/gems/${DISTNAME}/lib/rb-inotify/event.rb
 ${GEM_LIB}/gems/${DISTNAME}/lib/rb-inotify/native/
 ${GEM_LIB}/gems/${DISTNAME}/lib/rb-inotify/native.rb
